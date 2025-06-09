@@ -27,3 +27,5 @@ The system operates by collecting data from various sensors connected to an ESP3
     - **Blynk IoT:** For a user-friendly mobile/web dashboard.
 - **Key Libraries:** `PubSubClient.h`, `Adafruit_Sensor.h`, `DHT.h`, `MQUnifiedsensor.h`
 
+[![DOI](https://zenodo.org/badge/998599615.svg)](https://doi.org/10.5281/zenodo.15620849)
+
